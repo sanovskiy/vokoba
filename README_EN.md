@@ -51,7 +51,7 @@ Roots are used to form basic concepts. All roots describe simple ideas and can b
 - **per** — person, someone
 - **vol** — space, place
 - **mon** — thought, idea
-- **gra** — strength, power
+- **gra** — strength, power, strict
 - **ven** — movement
 - **zam** — action, activity
 - **fil** — kinship, connection
@@ -61,7 +61,7 @@ Roots are used to form basic concepts. All roots describe simple ideas and can b
 - **pur** — cleanliness, pure
 - **tag** — segment, part
 - **fran** — freedom
-- **gru** — weight, mass
+- **gru** — weight, mass, more
 - **reg** — order, sequence
 - **akt** — change, movement
 - **gen** — beginning
@@ -69,6 +69,7 @@ Roots are used to form basic concepts. All roots describe simple ideas and can b
 - **kor** — emotion, feeling
 - **alt** — height, magnitude
 - **kal** — warmth
+- **pon** — point, dot
 
 ### Word Endings for Parts of Speech (IMPORTANT: a root without an ending has no meaning!):
 
@@ -78,6 +79,18 @@ Roots are used to form basic concepts. All roots describe simple ideas and can b
   *lumi* — luminous, bright, *viti* — alive, *esaki* — expressive
 - **-e** / **-ke** — verb:  
   *lume* — to shine, *vite* — to live, *esake* — to express
+- **-o** / **-ko** — number/digit:  
+  *miko* — one (my digit),
+  *tiko* — two (your digit),
+  *zeko* — three (its digit),
+  *sano* — four (healthy digit),
+  *tago* — five (segmented digit),
+  *rego* — six (ordered digit),
+  *frano* — seven (free digit),
+  *mero* — eight (liquid digit),
+  *alto* — nine (top digit)
+  
+Names in brackets are just for easier memo.
 
 Roots can be combined to create more complex ideas.
 - **davoke** - to make sounds (literally existence + sound + verb)
@@ -152,6 +165,9 @@ These can be combined, for example:
   
 - **do** — direction to:  
   *luma do mika* — "light to (towards) me"
+
+- **ta** — purpose:  
+  *luma ta mika* — "light for me"
 
 - **je** — contextual indicator (similar to English "that"):  
   *si tika davime mona ni je, sida tika dake esavoki.* — "If you know about this, speak."
