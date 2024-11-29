@@ -99,7 +99,7 @@ mi-ti-ze-san-tag-reg-fran-mer-alto
 
 Для более сложных чисел можно использовать выражение `neko pona`, что означает «ноль точка...», а затем использовать основную систему.
 
-123.456 = miko grazeka tiko gratikar zeko *pona* san grazekar tag gratikar rego
+123.456 = miko grazeka tiko gratikar zeko *pona* sano grazekar tago gratikar rego
 
 ### **6. Дробные числа**
 
