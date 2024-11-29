@@ -105,7 +105,7 @@ In Vokoba **vi** means inside something. *luma vi mika* — "light inside me".
 So use it to point number **in** the whole.
 - 1/3 = miko vi zekor = one inside threes
 - 2/5 = tiko vi tagor = two inside fives
-- 21/13 = tiko gratikar miko vi [miko] gratika zeko = two full tens and one inside [one] ten and three (you can omit miko here)
+- 21/13 = tiko gratikar miko vi [miko] gratika zekor = two full tens and one inside [one] ten and three (you can omit miko here)
 
 
 Note the plural here. It's because there's three and five of then in the whole.
