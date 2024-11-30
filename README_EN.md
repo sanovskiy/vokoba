@@ -1,9 +1,9 @@
 # VOKOBA
 
 ## 1. Alphabet
-The alphabet of the language includes 24 letters. Each letter corresponds to one sound. Ambiguous sounds are avoided.
+The alphabet of the language consists of 23 letters. Each letter corresponds to a single sound. Ambiguous sounds are avoided.
 
-### Alphabet and Their Sounds:
+### Alphabet and Pronunciation:
 
 - **a** /a/
 - **b** /b/
@@ -13,100 +13,103 @@ The alphabet of the language includes 24 letters. Each letter corresponds to one
 - **g** /g/
 - **h** /h/
 - **i** /i/
-- **j** /ʒ/ (like the sound in English "measure" or Russian "жук")
+- **j** /ʒ/ (like the sound in the English "measure" or the Russian "жук")
 - **k** /k/
 - **l** /l/
 - **m** /m/
 - **n** /n/
 - **o** /o/
 - **p** /p/
-- **q** /k/
 - **r** /r/
 - **s** /s/
 - **t** /t/
 - **u** /u/
 - **v** /v/
-- **x** /ʃ/ (like the sound in English "sh" or Russian "ш")
+- **x** /ʃ/ (like the sound in the English "sh" or the Russian "ш")
 - **y** /ʝ/ (soft "yu", like in "muesli")
 - **z** /z/
 
 ## 2. Basic Roots
 
-Roots are used to form basic concepts. All roots describe simple ideas and can be combined to express more complex thoughts.
+Roots are used to form basic concepts. All roots describe simple ideas, which can be combined to express more complex thoughts.
 
-### List of Roots:
+### List of Roots (this is just an alpha version; roots may change in the future):
 
-- **mi** — first person (indicator, without an ending, it has no meaning)
-- **ti** — second person (indicator, without an ending, it has no meaning)
-- **ze** — third person (indicator, without an ending, it has no meaning)
-- **esa** — expression
-- **vim** — perception (taking, acquiring)
-- **tak** — more physical/material version of vim
-- **vok** — sound
-- **lum** — light
-- **bon** — positive root (something good)
-- **da** — existence
-- **vit** — life
-- **ob** — object
-- **per** — person, someone
-- **vol** — space, place
-- **mon** — thought, idea
-- **gra** — strength, power, strict
-- **ven** — movement
-- **zam** — action, activity
-- **fil** — kinship, connection
-- **pul** — interaction, contact
-- **tem** — time, moment
-- **san** — health
-- **pur** — cleanliness, pure
-- **tag** — segment, part
-- **fran** — freedom
-- **gru** — weight, mass, more
-- **reg** — order, sequence
-- **akt** — change, movement
-- **gen** — beginning
-- **mer** — water/liquid
-- **kor** — emotion, feeling
-- **alt** — height, magnitude
-- **kal** — warmth
-- **pon** — point, dot
+- **mi** /mɪ/ — first person (indicator, without a suffix, the root has no meaning)
+- **ti** /tɪ/ — second person (indicator, without a suffix, the root has no meaning)
+- **ze** /ze/ — third person (indicator, without a suffix, the root has no meaning)
+- **esa** /ɛsa/ — expression
+- **vim** /vɪm/ — perception (acceptance, acquisition)
+- **tak** /tak/ — a more physical/material version of **vim**
+- **vok** /vok/ — sound
+- **lym** /lʝm/ — light
+- **bon** /bon/ — positive root (something good, benevolent)
+- **da** /da/ — existence, to be, to exist
+- **vit** /vɪt/ — life, energy
+- **ob** /ob/ — object, thing, entity, subject of consideration
+- **per** /pɛr/ — someone, a person
+- **pil** /pɪl/ — will, intention
+- **vol** /vol/ — space, place
+- **mon** /mon/ — thought, idea, concept
+- **gra** /gra/ — strength, power, strictness, authority, pressure
+- **ven** /vɛn/ — movement
+- **akt** /akt/ — change, movement, development (a less passive version of **ven**)
+- **zam** /zam/ — initiative, action, activity
+- **fil** /fil/ — kinship, connection, attachment
+- **pul** /pul/ — interaction, contact
+- **tem** /tɛm/ — time, moment
+- **san** /san/ — health, well-being, integrity
+- **pur** /pur/ — purity, clean, clarity, transparency
+- **tag** /tag/ — segment, part, element, component
+- **fra** /fra/ — freedom, independence
+- **gru** /gru/ — weight, mass, greater (comparative)
+- **reg** /rɛg/ — order, sequence, discipline, structure
+- **gen** /gɛn/ — beginning, origin
+- **mer** /mɛr/ — water/liquid
+- **kor** /kor/ — emotion, feeling, sensation
+- **alt** /alt/ — height, magnitude, higher (comparative)
+- **kal** /kal/ — heat
+- **pon** /pon/ — point, reference point, landmark
+- **vix** /vɪʃ/ — color, shade, nuance
+- **sum** /sum/ — addition, union
+- **mul** /mul/ - multiplication, increase, expansion
 
-### Word Endings for Parts of Speech (IMPORTANT: a root without an ending has no meaning!):
+### Word Endings for Parts of Speech (IMPORTANT: A root without an ending has no meaning!):
 
-- **-a** / **-ka** — noun:  
-  *luma* — light as an event, *vita* — life, *esaka* — expression
-- **-i** / **-ki** — adjective:  
-  *lumi* — luminous, bright, *viti* — alive, *esaki* — expressive
-- **-e** / **-ke** — verb:  
-  *lume* — to shine, *vite* — to live, *esake* — to express
-- **-o** / **-ko** — number/digit:  
-  *miko* — one (my digit),
-  *tiko* — two (your digit),
-  *zeko* — three (its digit),
-  *sano* — four (healthy digit),
-  *tago* — five (segmented digit),
-  *rego* — six (ordered digit),
-  *frano* — seven (free digit),
-  *mero* — eight (liquid digit),
-  *alto* — nine (top digit)
-  
-Names in brackets are just for easier memo.
+- **-a** / **-ka** — noun:
+*lyma* — light as a phenomenon, *vita* — life, *esaka* — expression
+- **-i** / **-ki** — adjective:
+*lymi* — glowing, bright, *viti* — alive, *esaki* — expressive
+- **-e** / **-ke** — verb:
+*lyme* — to shine, *vite* — to live, *esake* — to express
+- **-o** / **-ko** — number/numeral
+
+More details on numerals in the corresponding section.
+
+### Rule for Forming Compound Roots:
 
 Roots can be combined to create more complex ideas.
-- **davoke** - to make sounds (literally existence + sound + verb)
-- **bonkora** - affection, love (literally good + feeling + noun)
-- **gruregpera** - tyrant (literally heavy + order + person + noun)
-- **purmeri** - clean-watered (literally clean + water + adjective)
-- **esavoke** - to speak (literally expression + sound + verb)
 
-### Plural
+1. **Core meaning**: The first root is the main one and sets the general meaning of the word.
+2. **Modifiers**: Subsequent roots refine or modify the meaning of the first.
+3. **Euphony**: A vowel (by default **o**) can be added between roots for better sound when the combination of two consonants seems difficult.
 
-The plural is formed by adding the ending "-r"
+#### Examples:
+
+- **davok** = **da** (existence) + **vok** (sound) → "sound".
+- **bonkor** = **bon** (good) + **kor** (feeling) → "sympathy, love".
+- **perogrureg** = **per** (person) + **gru** (heavy) + **reg** (order) → "tyrant".
+- **meropur** = **mer** (liquid) + **pur** (purity) → "water".
+- **esavok** = **esa** (expression) + **vok** (sound) → "speech".
+
+### Plural Form
+
+The plural is formed by adding the suffix "-r":
 - *vita* — life, *vitar* — lives
 - *esaka* — expression, *esakar* — expressions
 - *pervita* — person, *pervitar* — people
 
-This may also apply to other parts of speech, though it is somewhat redundant, it can clarify context in some cases.
+This can also apply to other parts of speech, although in some cases it may seem redundant, but it helps clarify the context.
 
 ### Gender Differences
 - *mika* - I (gender-neutral)
@@ -116,117 +119,118 @@ This may also apply to other parts of speech, though it is somewhat redundant, i
 - *zemaka* - he
 - *zejaka* - she
 
-Additional variations for more accuracy, if needed:
-- *mimaka* - I (masculine)
-- *mijaka* - I (feminine)
-- *timaka* - you (masculine)
-- *tijaka* - you (feminine)
+Additional variants for greater precision, if needed:
+- *mimaka* - I (male)
+- *mijaka* - I (female)
+- *timaka* - you (to a male)
+- *tijaka* - you (to a female)
 
-For these nouns, the same plural rules apply as for the others.
+These nouns also follow the rules for plural formation.
 
 ## 3. Sentence Structure
 
-Sentences are structured in the **TSVO** format, where **T** represents the time context, and **SVO** follows the standard word order (subject, verb, object).
+Sentences are formed according to the **TSVO** format, where **T** represents the temporal context, and **SVO** follows the standard word order (subject, verb, object).
 
 ### Time and Aspect:
-Separate particles are used to denote time and the aspect of the action.
+Separate particles are used to indicate time and aspect of the action.
 
 - **pa** — past
 - **ta** — present
 - **fa** — future
-- **do** — completion
-- **no** — incompletion
+- **do** — completed action
+- **no** — ongoing action
 
-These can be combined, for example:
-- **fano** — future + incompletion
-- **tano** — present + incompletion
-- **pado** — past + completion
-- **fado** — future + completion
+These particles can be combined, for example:
+- **fano** — future + ongoing action
+- **fado** — future + completed action
+- **tano** — present + ongoing action
+- **tado** — present + completed action
+- **pano** — past + ongoing action
+- **pado** — past + completed action
 
-## Sentence Format Particles
+### Sentence Structure Particles:
 - **si** — if
 - **sida** — then
-- **nesida** — else
+- **nesida** — otherwise
 
 ### Example:
 
-**"si fado mika davime mona ni ja, sida fano mika davoke ja, nesida mika dake nevoki"** — "If [in the future] I have an idea about this, I will speak, in any other case I remain silent"
+**"si fado mika davime mona ni ja, sida fano mika davoke ja, nesida mika dake nevoki"** — "If in the future I have the thought about this, I will speak, otherwise, I will remain silent."
 
 ### Direction and Possession Particles:
 
-- **ni** — possession, relativity (like the Japanese "の"):  
-  *luma ni mika* — "my light"
-  
-- **vi** — inside:  
-  *luma vi mika* — "light inside me"
-  
-- **ot** — direction from:  
-  *luma ot mika* — "light from me"
-  
-- **do** — direction to:  
-  *luma do mika* — "light to (towards) me"
+- **ni** — possession, relativity (similar to Japanese "の"):
+*lyma ni mika* — "my light"
 
-- **ta** — purpose:  
-  *luma ta mika* — "light for me"
+- **vi** — inside:
+*lyma vi mika* — "light inside me"
 
-- **je** — contextual indicator (similar to English "that"):  
-  *si tika davime mona ni je, sida tika dake esavoki.* — "If you know about this, speak."
+- **ot** — direction from:
+*lyma ot mika* — "light from me"
 
-## 4. Example Usage
+- **do** — direction to:
+*lyma do mika* — "light to (towards) me"
+
+- **ta** — purpose:
+*lyma ta mika* — "light for me"
+
+- **je** — contextual marker (similar to "that" in English):
+*si tika davime mona ni je, sida tika dake esavoki.* — "If you know about this, speak."
+
+Particles also define the transitivity of verbs.
+
+- **esavoke** — to express (intransitive).
+- **Mika esavoke** — I express.
+- **Mika esavoke do tiki monar** — I voice your thoughts.
+- **Mika esavoke ta tiki monar** — I voice thoughts for you.
+- **Mika esavoke je tiki monar** — I voice those very thoughts of yours.
+
+### Negation Prefixes:
+
+- **ne** — inversion prefix. *neboni* — "bad"
+- **nai** — negation prefix: *naiboni* — "not good"
+
+More particles may be introduced as the language develops.
 
 ### Examples:
-**"pado mika vime luma"** — "In the past, I saw the light"
+
+**"pado mika vime lyma"** — "In the past, I saw the light."
 - **pado** — past + completion
 - **mika** — I
 - **vime** — to perceive (verb)
-- **luma** — light
+- **lyma** — light
 
-**"tano mika vime luma"** — "I see the light"
+**"tano mika vime do lyma"** — "I'm looking at the light (right now)."
 - **tano** — present + incompletion
 - **mika** — I
 - **vime** — to perceive
-- **luma** — light
+- **do**   — direction to
+- **lyma** — light
 
-**"[tano] mika davime graki bonkora do tika"** - "I love you."
+**"[tano] mika davime grabonkora do tika"** — "I love you."
 - **tano** — present + incompletion
 - **mika** — I
 - **davime** — to know (literally "existence perception verb")
-- **graki** — powerful/strong
-- **bonkora do tika** — positive feeling to you
+- **grabonkora** — powerful/strong positive feeling
+- **do tika** — to you
 
-**"si tika davime mona ni je, sida esavoke, nesida nedavoki!"** — "If you know about this, speak, otherwise be silent!"
+**"si tika davime mona ni je, sida esavoke, nesida nedavoki!"** — "If you know about this, speak, otherwise remain silent!"
 - **si** — if
 - **tika** — you
-- **davime** — to know/perceive
+- **davime** — to know/to perceive
 - **mona ni** — thought/knowledge of (something)
-- **je** — contextual marker
-- **sida** — then
-- **esavoke** — to express by sound = to speak
+- **je** — context marker
+- **sida** — then/means
+- **esavoke** — to express with sound = to speak
 - **nesida** — otherwise
-- **nedavoki** — to remain silent (literally "not be sounding")
+- **nedavoki** — to remain silent (literally "not to be sounding")
 
-**"si tano tika davime mona ni je, sida esavoke, nesida nedavoki!"** — "If you know, speak, otherwise be silent!"
-- **si** — if
-- **tano** — present + incompletion
+**"ke tika davime mona ni je?"** — "Do you know about this?"
+- **ke** — question starter (marker)
 - **tika** — you
-- **davime** — to know/perceive
-- **mona ni** — thought/knowledge of (something)
-- **je** — contextual marker
-- **sida** — then
-- **esavoke** — to express by sound = to speak
-- **nesida** — otherwise
-- **nedavoki** — to remain silent (literally "not be sounding")
+- **davime** — to know/to perceive
+- **mona nije** — thought/knowledge of the context
 
-**"ke tika davime mona ni je?"** - "Do you know about this?"
-- **ke** — question marker
-- **tika** — you
-- **davime** — to know/perceive
-- **mona ni** — thought/knowledge of (something)
-- **je** — contextual marker
-
-## 5. Notes
-
-- **Abbreviations and omissions**: In spoken language, parts of the sentence may be omitted if the context is clear.  
-  For example: **"si tika davime mona ni je, sida esavoke, nesida nedavoki!"** — "tano" and "dake" can be omitted, simplifying the phrase and making it more natural in conversation.
-  
 ---
+
+This is just the foundation of **VOKOBA**. It's in early stages, and its features might evolve over time. Let me know if you'd like to develop specific aspects further!
