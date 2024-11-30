@@ -12,7 +12,7 @@ Vokoba uses a numeral system based on grouping and spaces. Each number is repres
 - **sano** — 4 (healthy digit) 
 - **tago** — 5 (segmented digit)
 - **rego** — 6 (ordered digit)
-- **frano** — 7  (free digit)
+- **frako** — 7  (free digit)
 - **mero** — 8  (liquid digit)
 - **alto** — 9  (top digit)
 
@@ -51,12 +51,12 @@ Each group represents a different space, and the number in each space is formed 
 A number like **123,456,789** would be written as:
 
 ```
-miko grazeka tiko gratikar zeko zevolar, sano grazekar tago gratikar rego tivolar, frano grazekar mero gratikar alto.
+miko grazeka tiko gratikar zeko zevolar, sano grazekar tago gratikar rego tivolar, frako grazekar mero gratikar alto.
 ```
 
 Or you can also fast-call the number
 ```
-mi-ti-ze-san-tag-reg-fran-mer-alto
+mi-ti-ze-san-tag-reg-fra-mer-alto
 ```
 
 Here:
@@ -68,7 +68,7 @@ Here:
 - **tag gratikar** = five dozen
 - **rego** = six
 - **tivolar** = thousands
-- **frano grazekar** = seven hundred
+- **frako grazekar** = seven hundred
 - **mero gratikar** = eight dozen
 - **alto** = nine
 
@@ -100,7 +100,7 @@ For more complex mubers you can use `neko pona` which means `zero dot...` and th
   
 ### **6. Fractions**
 
-In Vokoba **vi** means inside something. *luma vi mika* — "light inside me".
+In Vokoba **vi** means inside something. *lyma vi mika* — "light inside me".
 
 So use it to point number **in** the whole.
 - 1/3 = miko vi zekor = one inside threes
