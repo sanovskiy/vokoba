@@ -196,7 +196,7 @@ This rule applies to the entire word, including roots, linkers, and endings.
 - **Part of speech**: Determined by the final ending (-a, -i, -e, -o, -u).
 
 **Examples:**
-- *da-vok* (*da-vok-a*) — "existence + sound" → "sound" (noun)  
+- *da-vok* (*da-vok-a*) — "existence + sound" → "sound as phenomenon" (noun)  
 - *bon(-i)-kor* (*bon-i-kor-a*) — "good + feeling" → "affection" (noun)  
 - *pur(-i)-mer* (*pur-i-mer-a*) — "purity + liquid" → "water" (noun) (lit. 'pure liquid')"
 
@@ -687,3 +687,7 @@ Note the plural **`-r`** on the denominator: **zekor**, **tagor**. This reflects
 | Purple     | korivixi         | `kor-i-vix-i`   | emotion-color                 | A complex, “emotional” color.                                |
 | Orange     | kavivixi         | `kav-i-vix-i`   | flow-color                    | The color of flowing lava, molten metal, dawn or dusk.       |
 | Brown      | terivixi         | `ter-i-vix-i`   | earth-color                   | The color of soil, ground, and stone.                        |
+
+## License
+
+Vokoba and its documentation are licensed under CC BY 4.0

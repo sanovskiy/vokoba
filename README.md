@@ -36,3 +36,5 @@ pado ronimina genadake sora tu tera ot genatema alufai.
 
 *"pado mika genadake vokoba bonai!"*  
 *"I created Vokoba (I say this with joy)!"*
+
+*License: CC BY 4.0*
